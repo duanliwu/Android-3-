@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="xml_textview">这个是xml里面写的textView</string>
+</resources>
